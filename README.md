@@ -1,3 +1,15 @@
+<div>
+  <h2>Demo: </h2><a target="_blank" href="https://hulu-clone-3ae38.web.app/">https://hulu-clone-3ae38.web.app/</a>
+</div>
+</br>
+
+
+<div>
+  <img src="https://raw.githubusercontent.com/somanath-goudar/hulu-clone/master/hulu-thumbnail.png" />
+</div>
+</br>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
